@@ -4,7 +4,7 @@
 
 **Име на веб апликацијата:** Bookhive
 
-**Видео:** https://www.youtube.com/watch?v=9_QhYvIDYio&ab_channel=DavidTrajkovski
+**Видео презентација:** https://www.youtube.com/watch?v=9_QhYvIDYio&ab_channel=DavidTrajkovski
 
 **Автори:**
 - Марко Спасеновски (191128)
