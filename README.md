@@ -1,9 +1,11 @@
-![fcse_logo](https://2018.skopje.wordcamp.org/files/2018/09/Logo_FINKI_UKIM_EN.jpg)
+![fcse_logo](https://www.finki.ukim.mk/Content/dataImages/downloads/logo-large-500x500_2.png)
 # Bookhive
 
 **Предмет:** Веб програмирање
 
 **Име на веб апликацијата:** Bookhive
+
+**Видео:** https://www.youtube.com/watch?v=9_QhYvIDYio&ab_channel=DavidTrajkovski
 
 **Автори:**
 - Марко Спасеновски (191128)
