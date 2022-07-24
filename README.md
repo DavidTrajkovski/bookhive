@@ -1,4 +1,3 @@
-![fcse_logo](https://www.finki.ukim.mk/Content/dataImages/downloads/logo-large-500x500_2.png)
 # Bookhive
 
 **Предмет:** Веб програмирање
@@ -17,4 +16,3 @@
 - проф. д-р Димитар Трајанов
 - проф. д-р Ристе Стојанов
 - проф. д-р Сашо Граматиков
-
